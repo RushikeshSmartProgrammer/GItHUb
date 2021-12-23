@@ -3,3 +3,8 @@ this is chat application
 Emoji
 type option calling  option recording options
 vibrant
+
+send vfx
+sending pdf
+group call
+group video call
